@@ -1,2 +1,2 @@
 # Streamlit Course Searcher
-Initial commit
+This is a simple regex based course searcher for public course catalog data. 
